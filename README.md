@@ -30,3 +30,8 @@ time-varying variables, static variables, treatment, outcome
 ### Process of data collection
 ---
 採用模擬方式產生資料，在每一個時間點，利用前一時刻的time-varying variables、static variables、treatment與outcome，透過預先設計的函數生成當前時間點的outcome。
+
+
+### Reference
+--- 
+[Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis](https://github.com/ruoqi-liu/T4/blob/main/simulation/gen_synthetic.py)
